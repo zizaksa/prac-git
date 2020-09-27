@@ -1,2 +1,3 @@
-# prac-git
-Practices for Git System
+# <Enter your Github ID>
+Hello, <Enter yout Github ID>!
+
