@@ -1,3 +1,2 @@
-# <Enter your Github ID>
-Hello, <Enter yout Github ID>!
-
+# [Your Github ID]
+Hello, [Your Github ID]!
