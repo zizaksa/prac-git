@@ -7,7 +7,7 @@ int main() {
 
     for(int i=0;i<9;i++)
     {
-        printf(\n%d X %d = %d\n,N,i+1,N*(i+1));
+        printf("\n%d X %d = %d\n",N,i+1,N*(i+1));
     }
 
     return 0;
