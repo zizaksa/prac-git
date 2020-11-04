@@ -1,2 +1,2 @@
-# [Your Github ID]
+# [Kimhyunsoo2497]
 Hello, [Your Github ID]!
